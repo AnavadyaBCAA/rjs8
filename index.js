@@ -12,7 +12,7 @@ function Recipe()
 
             {/* Card 1 */}
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="image1.jpg" alt="CHICKEN NOODLES SOUP"/>
+  <img className="card-img-top" src="image1.png" alt="CHICKEN NOODLES SOUP"/>
   <div className="card-body">
     <div className="card-body">
   <h5 className="card-title">CHICKEN NOODLE SOUP</h5>
@@ -38,7 +38,7 @@ function Recipe()
 <div className="col-4">
 
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="image2.jpg" alt="CURRIED EGG SALAD"/>
+  <img className="card-img-top" src="image2.png" alt="CURRIED EGG SALAD"/>
   <div className="card-body">
     <div className="card-body">
   <h5 className="card-title">CURRIED EGG SALAD</h5>
@@ -65,7 +65,7 @@ function Recipe()
 
             {/* Card 3 */}
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="image3.jpg" alt="OAT CLUSTERS"/>
+  <img className="card-img-top" src="image3.png" alt="OAT CLUSTERS"/>
   <div className="card-body">
     <div className="card-body">
   <h5 className="card-title">OAT CLUSTERS</h5>
